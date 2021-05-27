@@ -1,4 +1,4 @@
-# CSS Default Starter / Global Styles
+# CSS Starter / Global Styles
 
 Save time on project setup.
 Less lines of CSS.
